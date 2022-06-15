@@ -15,9 +15,4 @@ rendaMensal = Convert.ToDecimal(Console.ReadLine()!);
 valorParcela = valorSolicitado / parcelas;
 
 
-void EmprestimoAprovado()
-{
-   
-}
-
 
